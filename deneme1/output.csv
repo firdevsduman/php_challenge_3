@@ -1,0 +1,18 @@
+type;no;dateCreated;dateSend;version
+ORDER;00001;"2018-06-20 15:18:34";"2018-06-20 15:20:01";1
+
+line_no;itemCode;itemDescription;price;quantityPerPack;orderedQuantity;unitOfMeasure;deliveryDateLatest
+1;C0001;"Karisik Meyveli Kek";1,50;48;50;BOX;"20180706 "
+2;C0002;"Cikolatali Karamelli Kek";2,00;48;100;BOX;"20180706 "
+4;C0004;"Cilekli Kek";0,50;96;20;BOX;"20180713 "
+5;G0001;Gofret;1,50;48;50;Koli;"20180720 "
+6;G0002;;1,00;48;50;Koli;"20180720 "
+7;G0003;"Sutlu Cikolatali Gofret";2;48;50;Koli;"20180720 "
+8;G0004;"Bitter Cikolatali Gofret";2,50;48;50;Kol;"20180720 "
+10;D0001;"Portakal Aromali Meyve Suyu 1 Litre";1,50;48;50;BOX;"20180727 "
+11;D0002;"Seftali Aromali Meyve Suyu  1 Litre";1,50;48;50;BOX;"20180727 "
+12;D0003;"Limon Aromali Meyve Suyu 1 Litre";1,50;48;50;BOX;"20180727 "
+13;D0004;"Visne Aromali Meyve Suyu 1 Litre";1,50;48;50;BOX;"20180727 "
+14;D0005;"Seftali Aromali Soguk Cay 1 Litre";1,50;48;50;BOX;"20180727 "
+15;D0006;"Limon Aromali Soguk Cay 1 Litre";1,50;48;50;BOX;"20180727 "
+16;D0007;"Coca Cola 1,5 Litre";2,00;48;960;Adet;"20180718 "
